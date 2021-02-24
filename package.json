@@ -1,6 +1,6 @@
 {
   "name": "@nodemvc/node-mvc-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NodeMVC CLI tool",
   "main": "app.js",
   "repository": "https://github.com/alexdant91/node-mvc-cli",
