@@ -1,12 +1,12 @@
 {
-  "name": "nodemvc-cli",
+  "name": "@node-mvc/node-mvc-cli",
   "version": "1.0.0",
   "description": "NodeMVC CLI tool",
   "main": "app.js",
   "repository": "https://github.com/alexdant91/node-mvc-cli",
   "author": "Alessandro D'Antoni",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@octokit/auth-basic": "^1.4.8",
     "@octokit/rest": "^18.2.1",
