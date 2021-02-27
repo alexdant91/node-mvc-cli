@@ -51,5 +51,6 @@ node-mvc --ap
 | Name            | Status      | Install command                                         |
 |-----------------|-------------|---------------------------------------------------------|
 | Stripe Payments | Development | ```node-mvc add -n @nodemvc/stripe-payments-provider``` |
+| Paypal Payments | Development | ```node-mvc add -n @nodemvc/paypal-payments-provider``` |
 
 More plugins comming soon.
