@@ -54,3 +54,8 @@ node-mvc --ap
 | Paypal Payments | Development | ```node-mvc add -n @nodemvc/paypal-payments-provider``` |
 
 More plugins comming soon.
+
+## To do
+
+- [ ] Add remote repository for plugins, based on db;
+- [ ] Add possibility to register custom plugins;
