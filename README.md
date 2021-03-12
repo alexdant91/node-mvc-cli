@@ -1,6 +1,6 @@
 # node-mvc-cli
 
-NodeMVC CLI tool to auto generate a new project.
+[NodeMVC](https://github.com/alexdant91/node-mvc) CLI tool to auto generate a new project.
 
 ## ❌ ATTENTION ❌
 
